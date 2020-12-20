@@ -9,4 +9,5 @@ Calculation of π on GPU with Monte-Carlo method using CUDA
 ***Архитектура видеокарты:*** Maxwell; <br />
 ***Версия CUDA:*** 10.2.89. <br />
 
-![alt text](skrin/skrin.png)
+![Image alt](https://github.com/DaniilGlubshevAndr/skrin/blob/main/skrin.png)
+
